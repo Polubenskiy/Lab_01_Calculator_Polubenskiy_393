@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Lab 01 - Calculator_Polubenskiy</string>
+
+
+
+    <string name="infoUsual">Обычный</string>
+    <string name="infoA">A:</string>
+    <string name="infoB">B:</string>
+    <string name="infoResult">Result:</string>
+    <string name="infoAdd">Add</string>
+    <string name="infoSubtraction">Subtraction</string>
+    <string name="infoMultiplication">Multiplication</string>
+    <string name="infoDivision">Division</string>
+
+
+    <string name="infoEngineering">Инженерный</string>
+    <string name="infoResultTrig">Result:</string>
+
+    <string name="infoC">C:</string>
+    <string name="infoSin">Sin</string>
+    <string name="infoCos">Cos</string>
+    <string name="infoTan">Tan</string>
+    <string name="infoPow">Pow</string>
+    <string name="infoSqrt">Sqrt</string>
+
+
+
+</resources>
+
+
+
+
